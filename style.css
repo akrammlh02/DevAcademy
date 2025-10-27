@@ -73,7 +73,7 @@ nav ul li a:hover {
   align-items: center;
   text-align: center;
   color: white;
-  background-image: url(/front-end/images/background.gif);
+  background-image: url(/images/background.gif);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -551,4 +551,5 @@ hr {
     margin-bottom: 50px;
 
   }
+
 }
